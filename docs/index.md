@@ -1,4 +1,9 @@
-# Welcome to My BioBook
+# Biology Unlocked: A Comprehensive Q&A Guide
+
+<div style="text-align: center;">
+  <img src="biology-book.jpg" alt="Author Image" style="width:60%;">
+  <p><em>Biology Unlocked: A Comprehensive Q&A Guide</em></p>
+</div>
 
 ## Introduction
 
@@ -10,6 +15,18 @@ Welcome to our biology question and answer book! This comprehensive guide is des
 * `author` - H.S.Pitigalaarachchi.
 * `ISBN` - 978-3-16-148410-0
 * `page count` - 15
+
+
+## About the Author
+
+H.S. Pitigalaarachchi is a renowned biologist with a passion for sharing knowledge and inspiring curiosity about the natural world. With years of experience in teaching and research, Pitigalaarachchi brings a wealth of expertise to this biology question and answer book. Their dedication to making complex concepts accessible and engaging shines through in the comprehensive coverage and thoughtfully crafted questions. Join Pitigalaarachchi on this exciting journey of discovery and unlock the secrets of biology together.
+
+<!-- ![Author Image](hemali.jpeg) -->
+<div style="text-align: center;">
+  <img src="hemali.jpeg" alt="Author Image" style="width:60%;">
+  <p><em>H.S. Pitigalaarachchi, Author of Biology Unlocked</em></p>
+</div>
+
 
 ## Book Reviews
 
@@ -36,23 +53,26 @@ Welcome to our biology question and answer book! This comprehensive guide is des
 
 Here are some additional informative and engaging videos that complement the content of our biology question and answer book:
 
+### Video 1: Introduction to Cell Biology
 - [Video 1: Introduction to Cell Biology](https://www.youtube.com/embed/TNKWgcFPHqw)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TNKWgcFPHqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This video provides a comprehensive introduction to the fascinating world of cell biology. It covers the structure and function of cells, including cell organelles and their roles. You'll learn about cell division, cell communication, and the importance of cells in maintaining life. Whether you're new to biology or looking to refresh your knowledge, this video is a great starting point.
 
+### Video 2: Evolutionary Biology Explained
 - [Video 2: Evolutionary Biology Explained](https://www.youtube.com/embed/Qqe4thU-os8)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qqe4thU-os8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In this video, you'll delve into the captivating field of evolutionary biology. It explores the mechanisms of evolution, including natural selection, genetic variation, and adaptation. You'll gain insights into the origins of species, the concept of common ancestry, and the evidence supporting the theory of evolution. Whether you're curious about the diversity of life or interested in understanding our own evolutionary history, this video is a must-watch.
 
+### Video 3: Genetics and Heredity
 - [Video 3: Genetics and Heredity](https://www.youtube.com/embed/30B0wGAID4o)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/30B0wGAID4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This video explores the fascinating world of genetics and heredity. It covers the basics of DNA, genes, and chromosomes, and explains how traits are inherited from parents to offspring. You'll learn about Mendelian genetics, genetic disorders, and the role of DNA in protein synthesis. Whether you're interested in understanding your own genetic makeup or fascinated by the inheritance patterns in living organisms, this video will provide valuable insights.
 
 ### Video 4: Introduction to Photosynthesis
-[Video 4: Introduction to Photosynthesis](https://www.youtube.com/embed/8_f-8ISZ164)
+[Video 4: Introduction to Photosynthesis](https://www.youtube.com/watch?v=8_f-8ISZ164)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8_f-8ISZ164" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This video provides a comprehensive introduction to the process of photosynthesis. It explains how plants convert sunlight into energy and produce oxygen as a byproduct. Understanding photosynthesis is crucial for grasping the fundamentals of plant biology.
@@ -81,11 +101,7 @@ Explore the intricate web of ecological interactions that shape our ecosystems i
 
 This video dives into the fascinating processes of DNA replication and protein synthesis. You'll learn how DNA is copied and how the information encoded in DNA is used to build proteins, which are essential for the structure and function of living organisms.
 
-These additional videos provide valuable insights into various biology topics, expanding your knowledge beyond the scope of our book. Enjoy exploring these videos and deepening your understanding of the natural world!
-
-
-
-
+---
 
 
 These videos provide visual demonstrations and explanations of key biology concepts, making it easier for you to grasp complex topics. Whether you're a student or an enthusiast, these videos will enhance your learning experience and deepen your understanding of biology.
