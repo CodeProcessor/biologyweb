@@ -71,8 +71,8 @@ In this video, you'll delve into the captivating field of evolutionary biology. 
 
 This video explores the fascinating world of genetics and heredity. It covers the basics of DNA, genes, and chromosomes, and explains how traits are inherited from parents to offspring. You'll learn about Mendelian genetics, genetic disorders, and the role of DNA in protein synthesis. Whether you're interested in understanding your own genetic makeup or fascinated by the inheritance patterns in living organisms, this video will provide valuable insights.
 
-### Video 4: Introduction to Photosynthesis
-[Video 4: Introduction to Photosynthesis](https://www.youtube.com/watch?v=8_f-8ISZ164)
+### Video 4: DNA transcription and translation McGraw Hill
+[Video 4: DNA transcription and translation McGraw Hill](https://www.youtube.com/watch?v=8_f-8ISZ164)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8_f-8ISZ164" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This video provides a comprehensive introduction to the process of photosynthesis. It explains how plants convert sunlight into energy and produce oxygen as a byproduct. Understanding photosynthesis is crucial for grasping the fundamentals of plant biology.
