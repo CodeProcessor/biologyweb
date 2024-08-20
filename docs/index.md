@@ -1,11 +1,14 @@
-# Biology Unlocked: A Comprehensive Q&A Guide
+# Biology Book
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <img src="biology-book.jpg" alt="Author Image" style="width:60%;">
   <p><em>Biology Unlocked: A Comprehensive Q&A Guide</em></p>
-</div>
+</div> -->
 
-## Introduction
+## --- Notice : This page is still Work in progress ---
+
+
+<!-- ## Introduction
 
 Welcome to our biology question and answer book! This comprehensive guide is designed to help you deepen your understanding of biology concepts and test your knowledge through a series of thought-provoking questions and detailed answers. Whether you're a student preparing for exams or simply curious about the wonders of life, this book is your key to unlocking the secrets of the natural world. Get ready to embark on an exciting journey of discovery as we explore the fascinating realm of biology together.
 
@@ -19,34 +22,13 @@ Welcome to our biology question and answer book! This comprehensive guide is des
 
 ## About the Author
 
-H.S. Pitigalaarachchi is a renowned biologist with a passion for sharing knowledge and inspiring curiosity about the natural world. With years of experience in teaching and research, Pitigalaarachchi brings a wealth of expertise to this biology question and answer book. Their dedication to making complex concepts accessible and engaging shines through in the comprehensive coverage and thoughtfully crafted questions. Join Pitigalaarachchi on this exciting journey of discovery and unlock the secrets of biology together.
+H.S. Pitigalaarachchi is a renowned biologist with a passion for sharing knowledge and inspiring curiosity about the natural world. With years of experience in teaching and research, Pitigalaarachchi brings a wealth of expertise to this biology question and answer book. Their dedication to making complex concepts accessible and engaging shines through in the comprehensive coverage and thoughtfully crafted questions. Join Pitigalaarachchi on this exciting journey of discovery and unlock the secrets of biology together. -->
 
-<!-- ![Author Image](hemali.jpeg) -->
+<!-- ![Author Image](hemali.jpeg)
 <div style="text-align: center;">
   <img src="hemali.jpeg" alt="Author Image" style="width:60%;">
   <p><em>H.S. Pitigalaarachchi, Author of Biology Unlocked</em></p>
-</div>
-
-
-## Book Reviews
-
-### Review 1
-
-"This biology question and answer book is a fantastic resource for students and enthusiasts alike. The explanations are clear and concise, making complex concepts easy to understand. The inclusion of thought-provoking questions and detailed answers helps reinforce learning and test knowledge. I highly recommend this book to anyone looking to deepen their understanding of biology."
-
-- John Doe, Biology Student
-
-### Review 2
-
-"As a biology teacher, I find this book to be an invaluable tool in my classroom. The comprehensive coverage of biology concepts and the inclusion of supporting videos make it engaging and interactive for my students. The author's expertise shines through in the detailed explanations and the thoughtfully crafted questions. This book has become an essential part of my teaching resources."
-
-- Jane Smith, Biology Teacher
-
-### Review 3
-
-"I stumbled upon this biology question and answer book while searching for additional study materials, and I'm so glad I did. The book is well-organized, and the explanations are easy to follow. The supporting videos provide visual demonstrations that enhance the learning experience. It's a must-have for anyone looking to ace their biology exams."
-
-- Sarah Johnson, Biology Enthusiast
+</div> -->
 
 
 ## Supporting Videos
@@ -79,7 +61,7 @@ DNA කොපි කිරීම අර්ධ රක්ෂණය ලෙස ව�
 - [Video 2: Evolutionary Biology Explained](https://www.youtube.com/embed/Qqe4thU-os8)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qqe4thU-os8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<details open>
+<details>
 <summary>Explaination in Sinhala </summary>
 අපි එについて බොහෝ දෙනා බසනවා - එය සෛලවල පූර්ණාංග නායකයා වන අතර ඔබේ ලක්ෂණයන් සදහා කොඩ් කරනවා.  
 ඉස්සරම කොටසේදී - DNA එක සෛල වන්ස්කෘතියක සිදුවන්නේ මෙසේ, එය බෙදීලබා ගැනීමේදී නැවත ප්‍රජනනය වෙන්නේ DNA එක ලබාදීමක්, ඔබ අලුත් සහෝදර සෛලයට DNA එක ලබාදිය යුතුයි.
