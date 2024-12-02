@@ -1,5 +1,3 @@
-# අණුක ජීවවිදයාව හා ප්‍රතිසන්යොජිත DNA තාක්ශනය
-
 
 <div style="text-align: center;">
   <img src="biology-book.png" alt="Author Image" style="width:40%;">
@@ -51,7 +49,7 @@ H.S. Pitigalaarachchi is a renowned biologist with a passion for sharing knowled
 
 
 ## Video 1: DNA ප්‍රතිවලිතය
-- [Video 1: Introduction to Cell Biology](https://www.youtube.com/embed/TNKWgcFPHqw)
+- [Video link > DNA ප්‍රතිවලිතය](https://www.youtube.com/embed/TNKWgcFPHqw)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TNKWgcFPHqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <details>
@@ -73,7 +71,7 @@ DNA කොපි කිරීම අර්ධ රක්ෂණය ලෙස ව�
 
 
 ## Video 2: DNA ප්‍රතිවලිතය - එන්සයිම ක්‍රියාකාරීත්වයේ විස්තර සහිතව
-- [Video 2: Evolutionary Biology Explained](https://www.youtube.com/embed/Qqe4thU-os8)
+- [Video link > DNA ප්‍රතිවලිතය - එන්සයිම ක්‍රියාකාරීත්වයේ විස්තර සහිතව](https://www.youtube.com/embed/Qqe4thU-os8)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qqe4thU-os8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <details>
@@ -119,37 +117,37 @@ DNA ප්‍රොලිමරේස් නවස්ත්‍රෑන්ඩ්
 </details>
 
 ## Video 3: බැක්ටීරියා වර්ණදේහ ව්‍යුහය/ ඇසිරීම
-- [Video 3: Genetics and Heredity](https://www.youtube.com/embed/30B0wGAID4o)
+- [Video link > බැක්ටීරියා වර්ණදේහ ව්‍යුහය/ ඇසිරීම](https://www.youtube.com/embed/30B0wGAID4o)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/30B0wGAID4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This video explores the fascinating world of genetics and heredity. It covers the basics of DNA, genes, and chromosomes, and explains how traits are inherited from parents to offspring. You'll learn about Mendelian genetics, genetic disorders, and the role of DNA in protein synthesis. Whether you're interested in understanding your own genetic makeup or fascinated by the inheritance patterns in living organisms, this video will provide valuable insights.
 
 ## Video 4: බැක්ටීරියා DNA ප්‍රතිවලිතය
-[Video 4: DNA transcription and translation McGraw Hill](https://www.youtube.com/watch?v=8_f-8ISZ164)
+ - [Video link > බැක්ටීරියා DNA ප්‍රතිවලිතය](https://www.youtube.com/watch?v=8_f-8ISZ164)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8_f-8ISZ164" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This video provides a comprehensive introduction to the process of photosynthesis. It explains how plants convert sunlight into energy and produce oxygen as a byproduct. Understanding photosynthesis is crucial for grasping the fundamentals of plant biology.
 
 ## Video 5: DNA පිටපත් කිරීම හා පරිවර්තනය
-[Video 5: The Circulatory System Explained](https://www.youtube.com/embed/0iwWCFG4fHs)
+ - [Video link > DNA පිටපත් කිරීම හා පරිවර්තනය](https://www.youtube.com/embed/0iwWCFG4fHs)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0iwWCFG4fHs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In this video, you'll learn about the circulatory system, which is responsible for transporting oxygen, nutrients, and waste products throughout the body. The video covers the structure and function of the heart, blood vessels, and blood cells, providing a clear understanding of how our bodies maintain homeostasis.
 
 ## Video 6: සීමාකාරී එන්සයිම
-[Video 6: The Immune System and Disease](https://www.youtube.com/embed/MIfDx417SDs)
+ - [Video link > සීමාකාරී එන්සයිම](https://www.youtube.com/embed/MIfDx417SDs)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MIfDx417SDs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This video delves into the fascinating world of the immune system and its role in protecting our bodies from harmful pathogens. You'll learn about the different components of the immune system, how it recognizes and fights off invaders, and the consequences of immune system dysfunction.
 
 ## Video 7: DNA ක්ලෝනකරණය
-[Video 7: Ecological Interactions in Ecosystems](https://www.youtube.com/embed/vBATs6Jhk44)
+ - [Video link > DNA ක්ලෝනකරණය](https://www.youtube.com/embed/vBATs6Jhk44)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vBATs6Jhk44" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Explore the intricate web of ecological interactions that shape our ecosystems in this video. From predator-prey relationships to symbiotic partnerships, you'll gain insights into how organisms interact with each other and their environment, ultimately influencing the balance of nature.
 
 ## Video 8: සදර්න් බ්ලොටින් ක්‍රමය
-[Video 8: DNA Replication and Protein Synthesis](https://www.youtube.com/embed/mVRcsw_SPT4)
+ - [Video link > සදර්න් බ්ලොටින් ක්‍රමය](https://www.youtube.com/embed/mVRcsw_SPT4)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mVRcsw_SPT4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This video dives into the fascinating processes of DNA replication and protein synthesis. You'll learn how DNA is copied and how the information encoded in DNA is used to build proteins, which are essential for the structure and function of living organisms.
@@ -157,6 +155,9 @@ This video dives into the fascinating processes of DNA replication and protein s
 
 
 ## Video  9 : DNA ඇඟිලි සලකුණු මගින් දෙමාපිය පරීක්ෂාව
+
+ - [Video link > DNA ඇඟිලි සලකුණු මගින් දෙමාපිය පරීක්ෂාව](https://www.youtube.com/embed/DiX5fPL4YGU)
+
 ## Video 10 : සමපාටික පිළියුම් (TR) සහ කුඩා සමපාටික පිළියුම් (STR)
 ## Video 11 : ප්ලාස්මීඩ වාහකයෙකු තැනීම
 
