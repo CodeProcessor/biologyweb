@@ -19,14 +19,14 @@
 
 ඉහත ගැටලු සඳහා විසඳුම් සපයමින් ‘අණුක ජීව විද්‍යාව හා ප්‍රතිසංයෝජිත DNA තාක්ෂණය - රචනා ප්‍රශ්න විග්‍රහ’ යනුවෙන් ඔබ ඉදිරිපත් කරන ග්‍රන්ථය පරිහරණයේදී අත්වැලක් වශයෙන් යොදාගැනීමට සුදුසු වීඩියෝ එකතු කර ඇති අතර, ඉදිරියේදී ඒවායේ සිංහල පරිවර්තනද ඇතුළත් කිරීමට බලාපොරොත්තු වෙමි.
 
-~ හෙමාලි පිටිගලආරච්චි මහත්මිය ~
+~ හේමාලි පිටිගලආරච්චි මහත්මිය ~
 
 Note: අපගේ වෙබ්අඩවිය දැනට සකස් කරමින් පවතී. ඉතා ඉක්මනින් ඔබට සම්පූර්ණයෙන් භාවිතා කළ හැකි වනු ඇත!
 
 
 
 
-# Video Repository
+# අන්තර්ජාලයෙන් තෝරා ගන්නා ලද video
 ## Video 1: DNA ප්‍රතිවලිතය
 - [Video link > DNA ප්‍රතිවලිතය](https://www.youtube.com/embed/TNKWgcFPHqw)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TNKWgcFPHqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -58,7 +58,8 @@ DNA යනු තවත් ස්ත්‍රෑන්ඩ් දෙකකින�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/30B0wGAID4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Video 4: බැක්ටීරියා DNA ප්‍රතිවලිතය
- - [Video link > බැක්ටීරියා DNA ප්‍රතිවලිතය](https://www.youtube.com/watch?v=8_f-8ISZ164)
+ - [Video link > බැක්ටීරියා DNA ප්‍රතිවලිතය](https://www.youtube.com/watch?v=0Ha9nppnwOc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Ha9nppnwOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Video 5: DNA පිටපත් කිරීම හා පරිවර්තනය
  - [Video link > DNA පිටපත් කිරීම හා පරිවර්තනය](https://www.youtube.com/embed/8_f-8ISZ164)
@@ -81,12 +82,11 @@ DNA යනු තවත් ස්ත්‍රෑන්ඩ් දෙකකින�
 
 
 ## Video  9 : DNA ඇඟිලි සලකුණු මගින් දෙමාපිය පරීක්ෂාව
-
  - [Video link > DNA ඇඟිලි සලකුණු මගින් දෙමාපිය පරීක්ෂාව](https://www.youtube.com/embed/DiX5fPL4YGU)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DiX5fPL4YGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Video 10 : සමපාටික පිළියුම් (TR) සහ කුඩා සමපාටික පිළියුම් (STR)
-
+ - [Video link > සමපාටික පිළියුම් (TR) සහ කුඩා සමපාටික පිළියුම් (STR)](https://www.youtube.com/embed/mVRcsw_SPT4)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mVRcsw_SPT4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
