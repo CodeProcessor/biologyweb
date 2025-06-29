@@ -93,62 +93,197 @@ DNA යනු තවත් ස්ත්‍රෑන්ඩ් දෙකකින�
 
 # ඇතුළත් කර ඇති පින්තූර
 
-## 1. DNV 
+## 1. DNA ව්‍යූහය
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="DNA/image1.jpg" alt="Image 1" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="DNA/image2.jpg" alt="Image 2" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="DNA/image3.jpg" alt="Image 3" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="DNA/image4.jpg" alt="Image 1" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="DNA/image5.jpg" alt="Image 2" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;"> -->
+    <img src="DNA/image6.jpg" alt="Image 3" style="width: 100%; height: auto;">
+  </div>
+
+</div>
+
 ## 2. STR
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="STR/image1.jpg" alt="Image 1" style="width: 100%; height: auto;">
+  </div>
 
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="STR/image2.jpg" alt="Image 2" style="width: 100%; height: auto;">
+  </div>
 
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="STR/image3.jpg" alt="Image 3" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="STR/image4.jpg" alt="Image 1" style="width: 100%; height: auto;">
+  </div>
+
+</div>
 
 # ඇතුළත් කර ඇති ඡායාරූප
 
 ## 1. සහලක්ෂණ / Syndromes
 
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="Syndrome/image1.jpg" alt="Image 1" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="Syndrome/image2.jpg" alt="Image 2" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="Syndrome/image3.jpg" alt="Image 3" style="width: 100%; height: auto;">
+  </div>
+
+</div>
+
+
 ## 2. GMOs
 
-### a. වල් නාශකයට ප්‍රතිරෝධය දක්වන බෝග වර්ග
+### a. පළිබෝධවලට ප්‍රතිරෝධී ශාක
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="GMOs/a/image1.jpg" alt="Image 1" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="GMOs/a/image2.jpg" alt="Image 2" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="GMOs/a/image3.jpg" alt="Image 3" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="GMOs/a/image4.jpg" alt="Image 1" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="GMOs/a/image5.jpg" alt="Image 1" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="GMOs/a/image6.jpg" alt="Image 3" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="GMOs/a/image7.jpg" alt="Image 1" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="GMOs/a/image8.jpg" alt="Image 1" style="width: 100%; height: auto;">
+  </div>
+
+
+</div>
+
+### b. රෝගවලට ප්‍රතිරෝධී
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
   <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
-    <img src="images1/image1.jpg" alt="Image 1" style="width: 100%; height: auto;">
+    <img src="GMOs/b/image1.jpg" alt="Image 1" style="width: 100%; height: auto;">
   </div>
 
   <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
-    <img src="images1/image2.jpg" alt="Image 2" style="width: 100%; height: auto;">
+    <img src="GMOs/b/image2.jpg" alt="Image 2" style="width: 100%; height: auto;">
   </div>
 
   <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
-    <img src="images1/image3.jpg" alt="Image 3" style="width: 100%; height: auto;">
+    <img src="GMOs/b/image3.jpg" alt="Image 3" style="width: 100%; height: auto;">
   </div>
 
   <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
-    <img src="images1/image4.jpg" alt="Image 1" style="width: 100%; height: auto;">
+    <img src="GMOs/b/image4.jpg" alt="Image 1" style="width: 100%; height: auto;">
   </div>
 
   <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
-    <img src="images1/image5.jpg" alt="Image 2" style="width: 100%; height: auto;">
+    <img src="GMOs/b/image5.jpg" alt="Image 2" style="width: 100%; height: auto;">
   </div>
-
-  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;"> -->
-    <img src="images1/image6.jpg" alt="Image 3" style="width: 100%; height: auto;">
-  </div>
-
-  <!-- <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
-    <img src="images1/image7.jpg" alt="Image 1" style="width: 100%; height: auto;">
-  </div>
-
-  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
-    <img src="images1/image9.jpg" alt="Image 3" style="width: 100%; height: auto;">
-  </div>
-
-  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
-    <img src="images1/image10.jpg" alt="Image 3" style="width: 100%; height: auto;"> -->
-  <!-- </div> --> -->
 
 </div>
 
-b. පළිබෝධවලට ප්‍රතිරෝධී ශාක
 
-c. වැදගත් ලක්ෂණ 
+### c. වල් නාශකයට ප්‍රතිරෝධය දක්වන බෝග වර්ග
 
-d. රෝගවලට ප්‍රතිරෝධී
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="GMOs/c/image1.jpg" alt="Image 1" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="GMOs/c/image2.jpg" alt="Image 2" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="GMOs/c/image3.jpg" alt="Image 3" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="GMOs/c/image4.jpg" alt="Image 1" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="GMOs/c/image5.jpg" alt="Image 2" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;"> -->
+    <img src="GMOs/c/image6.jpg" alt="Image 3" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;"> -->
+    <img src="GMOs/c/image7.jpg" alt="Image 3" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;"> -->
+    <img src="GMOs/c/image8.jpg" alt="Image 3" style="width: 100%; height: auto;">
+  </div>
+
+</div>
+
+### d. වැදගත් ලක්ෂණ 
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="GMOs/d/image1.jpg" alt="Image 1" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="GMOs/d/image2.jpg" alt="Image 2" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 0 1 calc(33.3% - 16px); box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+    <img src="GMOs/d/image3.jpg" alt="Image 3" style="width: 100%; height: auto;">
+  </div>
+
+
+</div>
